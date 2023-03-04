@@ -1,15 +1,16 @@
 /*
 3.3-3.10 女神价到
-新增开卡脚本，一次性脚本
+
+开一张5 关注10  无邀请
 
 第一个账号助力作者 其他依次助力CK1
 注意：第一个CK黑号会全部助力所填写的助力码
 
-cron:59 9 3-10/3 3
+cron:59 10 3-10/3 3
 ============Quantumultx===============
 [task_local]
 #3.3-3.10 女神价到
-59 9 3-10/3 3 jd_opencardLNS.js, tag=3.3-3.10 女神价到, enabled=true
+59 10 3-10/3 3 jd_opencardLNS.js, tag=3.3-3.10 女神价到, enabled=true
 */
 let opencard_toShop = "false"
 const $ = new Env("3.3-3.10 女神价到");
