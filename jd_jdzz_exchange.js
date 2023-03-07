@@ -7,6 +7,8 @@
 
 不清楚后续还有无库存，尽早兑换。
 
+兑换的红包有效期 5 天
+
 [task_local]
 #京东赚赚兑换
 11 11 11 11 * jd_ty_help.js, tag=京东赚赚兑换, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true*/
