@@ -1,8 +1,6 @@
 /*
 #京东晚八点音乐会
 
-需要定义环境变量 krtycode 指定助力码 
-
 [task_local]
 #京东晚八点音乐会
 11 11 11 11 * jd_yyh.js, tag=京东晚八点音乐会, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true*/
